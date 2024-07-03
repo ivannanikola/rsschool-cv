@@ -33,6 +33,7 @@ Breakfast service, Accommodating a-la carte, Reception
 RoomService, Approval of telephone reservations, Handling of
 Computer. 
 
+
 ## Languages
 English: Intermediate level
 
