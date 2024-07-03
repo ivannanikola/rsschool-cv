@@ -31,7 +31,7 @@ Waitress-Hostess / Renessance Warsaw Airport Hotel
 Job Description:
 Breakfast service, Accommodating a-la carte, Reception
 RoomService, Approval of telephone reservations, Handling of
-Computer.
+Computer. 
 
 ## Languages
 English: Intermediate level
