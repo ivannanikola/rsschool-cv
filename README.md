@@ -1,1 +1,1 @@
- https://ivannanikola.github.io/rsschool-cv/cv.
+ https://ivannanikola.github.io/rsscool-cv/cv
