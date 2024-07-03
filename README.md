@@ -1,1 +1,1 @@
-https://github.com/ivannanikola/rsscool-cv-/blob/gh-pages/cv.md
+ https://ivannanikola.github.io/rsschool-cv/cv.
